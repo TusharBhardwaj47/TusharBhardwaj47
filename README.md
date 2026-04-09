@@ -30,9 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=TusharBhardwaj47&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -42,9 +40,7 @@
 
 ---
 
-## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharBhardwaj47&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
